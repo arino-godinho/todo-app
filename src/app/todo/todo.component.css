@@ -1,0 +1,29 @@
+.mat-card {
+    margin-top: 40px;
+    width: 350px;
+    border-radius: 5px;
+}
+
+.mat-card-content {
+    width: 100%;
+}
+
+.mat-card-title {
+    font-weight: bolder;
+    font-size: 20px;    
+}
+
+.li {
+    width: 100%;
+    border-style: solid;
+    border: 5px;
+}
+
+li.completed label {
+	color: #d9d9d9;
+	text-decoration: line-through;
+}
+
+.mat-icon {
+    margin-right: 0;
+}
